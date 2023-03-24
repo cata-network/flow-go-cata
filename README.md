@@ -1,4 +1,4 @@
-# Flow [![GoDoc](https://godoc.org/github.com/onflow/flow-go?status.svg)](https://godoc.org/github.com/onflow/flow-go)
+# CATA.Storage/Flow
 
 Flow is a fast, secure, and developer-friendly blockchain built to support the next generation of games, apps and the
 digital assets that power them. Read more about it [here](https://github.com/onflow/flow).
@@ -46,7 +46,7 @@ The following table lists all work streams and links to their home directory and
 | Verification Node  | [/cmd/verification](/cmd/verification)     |
 | Observer Service   | [/cmd/observer](/cmd/observer)             |
 | HotStuff           | [/consensus/hotstuff](/consensus/hotstuff) |
-| Storage            | [/storage](/storage)                       |
+| Storage/cata       | [/storage](/storage)                       |
 | Ledger             | [/ledger](/ledger)                         |
 | Networking         | [/network](/network/)                      |
 | Cryptography       | [/crypto](/crypto)                         |
