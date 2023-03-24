@@ -1,7 +1,6 @@
 # CATA.Storage/Flow
 
-CATA.Storage is desigined based on Flow storage node. It could be regarded as the parallel chain of Flow. Flow is a fast, secure, and developer-friendly blockchain built to support the next generation of games, apps and the
-digital assets that power them. CATA.Storage also Inherited these excellent characteristics.
+CATA.Storage is desigined based on Flow storage node. It could be regarded as the parallel chain of Flow. Flow is a fast, secure, and developer-friendly blockchain built to support NFT application. CATA.Storage also Inherited these excellent characteristics.
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
