@@ -1,7 +1,8 @@
 # CATA.Storage/Flow
 
-Flow is a fast, secure, and developer-friendly blockchain built to support the next generation of games, apps and the
-digital assets that power them. Read more about it [here](https://github.com/onflow/flow).
+CATA.Storage is desigined based on Flow storage node. It could be regarded as the parallel chain of Flow. Flow is a fast, secure, and developer-friendly blockchain built to support the next generation of games, apps and the
+digital assets that power them. CATA.Storage also Inherited these excellent characteristics.
+
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -46,7 +47,7 @@ The following table lists all work streams and links to their home directory and
 | Verification Node  | [/cmd/verification](/cmd/verification)     |
 | Observer Service   | [/cmd/observer](/cmd/observer)             |
 | HotStuff           | [/consensus/hotstuff](/consensus/hotstuff) |
-| Storage/cata       | [/storage](/storage)                       |
+| Storage/cata.storage  | [/storage](/storage)                       |
 | Ledger             | [/ledger](/ledger)                         |
 | Networking         | [/network](/network/)                      |
 | Cryptography       | [/crypto](/crypto)                         |
